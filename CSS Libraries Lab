@@ -1,0 +1,9 @@
+<div style="width: 600px">
+  <div class="flex items-center border rounded">
+    <img class="flex-none mr1" src="http://i.imgur.com/KveOp9g.png" alt="Scooby Doo">
+    <div>
+      <h1 class="m0">Scooby Doo</h1>
+      <small class="caps">Pet Detective</small>
+    </div>
+  </div>
+</div>
